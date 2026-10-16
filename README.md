@@ -19,6 +19,6 @@ All tools: `pip install git+https://github.com/kleogeos/<name>` or clone and run
 
 Full list + free browser versions: [kleogeos.github.io/freelancer-tools](https://kleogeos.github.io/freelancer-tools/) · curated list of other people's tools: [awesome-freelance-tools](https://github.com/kleogeos/awesome-freelance-tools)
 
-Need more paperwork — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15, pay with crypto)](https://kleogeos.github.io/freelancer-tools/kit.html)
+Need more paperwork — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15 — crypto or Telegram Stars, no bank/KYC needed)](https://kleogeos.github.io/freelancer-tools/kit.html)
 
-Free and will stay free. If a tool saved you time: [tip with crypto](https://kleogeos.github.io/freelancer-tools/donate.html).
+Free and will stay free. If a tool saved you time: [leave a tip](https://kleogeos.github.io/freelancer-tools/donate.html) (crypto or Telegram Stars).
