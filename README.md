@@ -9,8 +9,10 @@ Small, single-purpose command-line tools — no sign-up, no SaaS, no tracking. E
 | [freelance-rate-cli](https://github.com/kleogeos/freelance-rate-cli) · [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js) | Turn a target salary into a freelance day rate |
 | [freelance-proposal-cli](https://github.com/kleogeos/freelance-proposal-cli) | Generate a client proposal/quote |
 | [freelance-contract-cli](https://github.com/kleogeos/freelance-contract-cli) | Generate a simple services agreement |
+| [freelance-nda-cli](https://github.com/kleogeos/freelance-nda-cli) | Generate a mutual NDA for the discovery call |
 | [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) | Check a contract for missing standard clauses |
 | [freelance-time-cli](https://github.com/kleogeos/freelance-time-cli) | Track billable hours |
+| [freelance-timesheet-to-invoice-cli](https://github.com/kleogeos/freelance-timesheet-to-invoice-cli) | Turn tracked hours into an invoice.json |
 | [freelance-expense-cli](https://github.com/kleogeos/freelance-expense-cli) | Track expenses |
 | [freelance-tax-cli](https://github.com/kleogeos/freelance-tax-cli) | Estimate US self-employment tax |
 | [freelance-currency-cli](https://github.com/kleogeos/freelance-currency-cli) | Convert between 160+ currencies |
