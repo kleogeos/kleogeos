@@ -5,6 +5,7 @@ Small, single-purpose command-line tools — no sign-up, no SaaS, no tracking. E
 | Tool | What it does |
 |---|---|
 | [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) | Generate an HTML invoice from a JSON file |
+| [freelance-late-fee-cli](https://github.com/kleogeos/freelance-late-fee-cli) | Compute late fee owed on an overdue invoice + which reminder stage to send |
 | [freelance-rate-cli](https://github.com/kleogeos/freelance-rate-cli) · [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js) | Turn a target salary into a freelance day rate |
 | [freelance-proposal-cli](https://github.com/kleogeos/freelance-proposal-cli) | Generate a client proposal/quote |
 | [freelance-contract-cli](https://github.com/kleogeos/freelance-contract-cli) | Generate a simple services agreement |
@@ -19,6 +20,6 @@ All tools: `pip install git+https://github.com/kleogeos/<name>` or clone and run
 
 Full list + free browser versions: [kleogeos.github.io/freelancer-tools](https://kleogeos.github.io/freelancer-tools/) · curated list of other people's tools: [awesome-freelance-tools](https://github.com/kleogeos/awesome-freelance-tools)
 
-Need more paperwork — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15 — crypto or Telegram Stars, no bank/KYC needed)](https://kleogeos.github.io/freelancer-tools/kit.html)
+Need more paperwork — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15 — crypto or Telegram Stars, no bank/KYC needed)](https://kleogeos.github.io/freelancer-tools/kit.html?src=profile-readme)
 
 Free and will stay free. If a tool saved you time: [leave a tip](https://kleogeos.github.io/freelancer-tools/donate.html) (crypto or Telegram Stars).
